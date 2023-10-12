@@ -1,5 +1,4 @@
-red
-green
-blue
-dev - 1
-dev - 2
+red - pants
+green - jacket
+blue - shoes
+add - cloth - 2
