@@ -1,0 +1,23 @@
+# General
+*.aux
+*.bbl
+*.blg
+*.log
+*.out
+*.synctex.gz
+
+# under 03 - Papers
+# folder
+03 - Papers/04 - EuroGNC2024/template
+# file
+eurognc_ols.pdf
+
+# 05 - Research Notes
+PaperLatex.pdf
+notes.pdf
+report_tvo.pdf
+note_imgalign.pdf
+note_ins.pdf
+note_msif.pdf
+note_autoland.pdf
+note_camera.pdf
